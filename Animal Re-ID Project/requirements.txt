@@ -1,0 +1,19 @@
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Deep Metric Learning (For ArcFace Loss)
+pytorch-metric-learning>=2.3.0
+
+# Geometric Matching & Features
+lightglue
+aliked-service
+kornia
+opencv-python
+
+# Data Manipulation & Utilities
+numpy
+scikit-learn
+pandas
+tqdm
+matplotlib
